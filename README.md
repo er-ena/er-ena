@@ -1,6 +1,6 @@
 ## HELLO WORLD!
 
-<img src="https://github.com/user-attachments/assets/9c8ac94f-dc1f-4424-a55e-c0bc3c4c1b91" width="250">
+<img src="https://github.com/user-attachments/assets/9c8ac94f-dc1f-4424-a55e-c0bc3c4c1b91" width="200">
 
 Other than my bio, I love coffee and doing latte art :D
 
